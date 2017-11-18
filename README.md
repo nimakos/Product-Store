@@ -1,8 +1,6 @@
 # Product-Store
 
-
-# Products
-warehouse
+#warehouse
 Structured products
 
 A home warehouse has 20 products on its shelves. For each product, the name, price (value) and the number of available pieces are recorded.
