@@ -1,5 +1,11 @@
 # Product-Store
 
+# IDE: CodeBlocks
+
+# Language : C
+
+# Console application
+
 #warehouse
 Structured products
 
